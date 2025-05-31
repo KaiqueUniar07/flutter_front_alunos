@@ -18,7 +18,7 @@ Antes de rodar o projeto, você precisa ter instalado:
 
 - Flutter SDK
 - Dart SDK
-- Um backend REST rodando localmente (exemplo: Spring Boot)
+- Um backend REST rodando localmente 
 - Internet para consulta de CEP
 - Um editor como VSCode
 
@@ -28,7 +28,7 @@ Antes de rodar o projeto, você precisa ter instalado:
 
 ### 1. Clone o repositório
 ### 2. Este app depende de uma API REST local: http://localhost:8080/projeto/api/v1/aluno
-### 3. Inicie a aplicação: flutter run (no terminal do Vscode
+### 3. Inicie a aplicação: flutter run (no terminal do Vscode)
 
 
 
