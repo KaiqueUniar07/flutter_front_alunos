@@ -24,7 +24,7 @@ Antes de rodar o projeto, você precisa ter instalado:
 
 ---
 
-## ▶️ Como rodar o projeto
+## ▶ Como rodar o projeto
 
 ### 1. Clone o repositório
 ### 2. Este app depende de uma API REST local: http://localhost:8080/projeto/api/v1/aluno
